@@ -1,8 +1,6 @@
 # Hi there 👋
 #### I am TreeAtOr - full-stack developer, what loves to create products. 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TreeAtOr&theme=default) 
-
 ## 🔧 My Technostack:
  - Languages: 
     - C2: 
