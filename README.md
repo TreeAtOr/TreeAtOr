@@ -56,7 +56,6 @@
     ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
     ![image](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
     ![image](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=white)
-    ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
   - Message Brokers: 
     ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
