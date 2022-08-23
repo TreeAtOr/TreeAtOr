@@ -1,5 +1,5 @@
 # Hi there 👋
-#### I am TreeAtOr - full-stack developer, what loves to create products. 
+#### I am TreeAtOr - full-stack developer, who loves to create products. 
 
 ## 🔧 My Technostack:
  - Languages: 
